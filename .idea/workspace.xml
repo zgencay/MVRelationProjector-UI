@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2436acc-56d1-4191-855e-9c4b0cd7408f" name="Changes" comment="" />
+    <list default="true" id="f2436acc-56d1-4191-855e-9c4b0cd7408f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ResultComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResultComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TreeViewComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TreeViewComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ApiServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ApiServices.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +49,7 @@
     &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/zgencay/AppData/Roaming/JetBrains/IntelliJIdea2023.1/node/node-v18.15.0-win-x64/node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -49,7 +58,7 @@
       <recent name="C:\Users\zgencay\IdeaProjects\mvrelationprojector_front\src\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.All Tests">
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
     <configuration name="All Tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -109,7 +118,11 @@
       <workItem from="1691566907552" duration="447000" />
       <workItem from="1691567394027" duration="7470000" />
       <workItem from="1691999351249" duration="2193000" />
-      <workItem from="1692098681107" duration="4089000" />
+      <workItem from="1692098681107" duration="9853000" />
+      <workItem from="1692202783311" duration="2231000" />
+      <workItem from="1692205397521" duration="5291000" />
+      <workItem from="1692265931173" duration="3434000" />
+      <workItem from="1692269625797" duration="5669000" />
     </task>
     <task id="LOCAL-00001" summary="UI to github">
       <option name="closed" value="true" />
@@ -119,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691601635452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UI to github">
+      <option name="closed" value="true" />
+      <created>1692111620970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692111620970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UI to github">
+      <option name="closed" value="true" />
+      <created>1692111716935</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692111716935</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
